@@ -1,7 +1,7 @@
 # Task Master API
 
 ## Summary
-In this video, we build a REST API using Node, Express, TypeScript, MongoDB, and Nodemailer for task management software, covering authentication and task management features.
+We build a REST API using Node, Express, TypeScript, MongoDB, and Nodemailer for task management software, covering authentication and task management features.
 
 ## Highlights
 - 🚀 **Project Setup**: Initiate a TypeScript project using Node and Express.
